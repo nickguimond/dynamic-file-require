@@ -1,5 +1,5 @@
 {
-	"name": "dynamic-require",
+	"name": "dynamic-file-require",
 	"version": "0.0.1",
 	"description": "Require nodejs modules by having node find them for you",
 	"main": "index.js",
