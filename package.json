@@ -10,7 +10,8 @@
 		"File",
 		"Find",
 		"dynamic",
-		"module"
+		"module",
+		"finder"
 	],
 	"author": "Nick Guimond",
 	"license": "MIT"
