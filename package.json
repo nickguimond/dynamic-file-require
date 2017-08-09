@@ -2,7 +2,7 @@
 	"name": "dynamic-file-require",
 	"version": "0.0.2",
 	"description": "Require nodejs modules by having node find them for you",
-	"main": "index.js",
+	"main": "./lib/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
