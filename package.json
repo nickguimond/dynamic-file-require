@@ -1,6 +1,6 @@
 {
 	"name": "dynamic-file-require",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"description": "Require nodejs modules by having node find them for you",
 	"main": "./lib/index.js",
 	"scripts": {
